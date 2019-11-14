@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name='acmtrans',         # How you named your package folder (MyLib)
   packages=['acmtrans'],   # Chose the same as "name"
-  version='0.1',      # Start with a small number and increase it with every change you make
+  version='0.2',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description='This is a net spider program by Python to collect a list of ACM transaction papers.',   # Give a short description about your library
   author='Stephen Fan',                   # Type in your name
