@@ -1,4 +1,4 @@
-from acmtrans.acmtrans.Acmtrans import AcmTransSpider
+from acmtrans.Acmtrans import AcmTransSpider
 
 
 if __name__ == '__main__':
