@@ -8,7 +8,7 @@ You can get either *.txt* or *.json* files as the results.
 Steps:
 1. Install the package *`acmtrans`*: 
 
-    *`pip install acmtrans==0.2`*
+    *`pip install acmtrans==0.3`*
 
 2. Enter python environment and import *`AcmTransSpider`* library:
 
